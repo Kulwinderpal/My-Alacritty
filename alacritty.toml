@@ -1,0 +1,31 @@
+
+
+# Themes --
+import = [
+    "~/.config/alacritty/One_Half_Dark.toml"
+    
+]
+
+[window]
+title = "Alacritty"
+blur = true
+opacity = 0.6
+
+
+[window.dimensions]
+columns = 110
+lines = 28
+
+[cursor.style]
+shape= "Beam"
+blinking = "Never"
+
+[colors]
+#transparent_background_colors = true
+draw_bold_text_with_bright_colors = true
+
+[font]
+size = 13.0 
+
+[env]
+TERM = "xterm-256color"
