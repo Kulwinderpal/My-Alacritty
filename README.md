@@ -1,3 +1,5 @@
+![My-Alacritty](https://github.com/user-attachments/assets/ee46f67b-cdc9-44fd-bfb0-6ebe8f09632b)
+
 Tested on Arch Linux with 8GB RAM,256GB Storage,and an AMD 2500u
 
 To Install this you have to copy and paste alacritty.toml and One_Half_Dark.toml to ~/.config/alacritty/ if that directory does not exsist you can create it using mkdir -p ~/.config/alacritty
